@@ -1,0 +1,22 @@
+
+.bg{
+    background-color: lightslategray;
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 900;
+    padding:20px;
+}
+.p{
+    color:black;
+    background-color:beige
+}
+.b{
+    font-size:xx-large;
+    font-weight: 600;
+}
+.color{
+color:rgb(216, 15, 48);
+    font-weight:600;
+    font-size:20px;
+    padding:20px
+}

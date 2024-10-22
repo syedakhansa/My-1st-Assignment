@@ -1,0 +1,20 @@
+.bg{
+    background-color: aqua;
+    color:rgb(211, 15, 97);
+    font-size:xx-large;
+    text-align: center;
+    font-weight: 1000;
+   padding:20px;
+}
+.color{
+   color:rgb(216, 15, 48);
+   font-weight:600;
+   font-size:20px;
+   padding:20px
+}
+.p{
+   text-align: center;
+}
+.wbg{
+   background-color: pink;
+}
